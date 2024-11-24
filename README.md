@@ -9,7 +9,7 @@ En este repositorio hemos creado 4 carpetas, cada una con archivos diferente e i
 
 ---
 
-![Imagen de Japón] (Japón.jpg)
+![Imagen de Japón] (Japon.jpg)
 
 # Paloma
 
